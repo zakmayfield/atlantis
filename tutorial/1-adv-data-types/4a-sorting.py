@@ -1,10 +1,3 @@
-# Advanced Operations
-"""
-Sorting, slicing, and comprehensions are advanced operations that can be applied to sets, dictionaries, and tuples.
-
-Will go through a few examples but this requires further exploration.
-"""
-
 # sort
 """
 built-in method in Python that sorts the elements of a list in ascending order. It modifies the original list and does not return a new list
