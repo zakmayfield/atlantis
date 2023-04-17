@@ -22,7 +22,7 @@ for word in words:
   print(word)
 
 
-# Validation
+# Validation & Regex
 import re
 
 email = 'john.doe@example.com'
