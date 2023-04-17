@@ -22,7 +22,7 @@ print(c, d) # 1 2
 
 # Tuple operations
 tuple_len = len(my_tuple)
-print(tuple_len) # 5
+print(tuple_len) # 7
 tuple_count = my_tuple.count(2)
 print(tuple_count) # 3
 
