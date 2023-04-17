@@ -12,14 +12,12 @@ My goal is to self learn Python, using ChatGPT in place of a Python bootcamp. I 
 * Sets
 * Dictionaries
 * Tuples
-
 ### Object-oriented Programming (OOP)
 * Classes
 * Objects
 * Inheritance
 * Encapsulation
 * Polymorphism
-
 ### Advanced Control Flow
 * List Comprehensions
 * Generators
