@@ -2,15 +2,13 @@
 
 ## Lesson 1: Advanced Data Types
 
-* Introduction to sets, dictionaries, and tuples
+* Introduction to sets, dictionaries, and tuples & sorting
 * Understanding their use cases and benefits
 * Hands-on exercises on working with sets, dictionaries, and tuples
 
 ## Lesson 2: Object-oriented Programming (OOP)
 
-* Understanding the principles of OOP
-* Creating classes and objects
-* Inheritance, encapsulation, and polymorphism
+* Introduction to classes and objects, inheritance, encapsulation, and polymorphism
 * Hands-on exercises on implementing OOP concepts in Python
 
 ## Lesson 3: Advanced Control Flow
