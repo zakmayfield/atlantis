@@ -24,7 +24,7 @@ s = 'hello, world!'
 # print( s[0:12:2] ) # hlo ol
 
 # Slicing a list
-l = [1,2,3,4,5]
+l = [0,1,2,3,4]
 print( l[1:4] ) # [2, 3, 4]
 print( l[:3] ) # [1, 2, 3]
 print( l[::2] ) # [1, 3, 5]
