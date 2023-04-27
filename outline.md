@@ -70,3 +70,70 @@ Web development with Flask or Django
 * Coding challenges to test skills
 * Writing clean and efficient code practices
 * Hands-on exercises on implementing real-world projects and coding challenges
+
+
+
+---
+
+
+
+# And eventually... Django
+
+## Lesson 1: Getting Started with Django
+
+* Introduction to Django and its history
+* Installing Django using pip
+* Creating a new Django project
+* Overview of the Django file structure
+* Starting a new app within a project
+* Creating a basic view
+* Hands-on exercise: Create a new Django project and app, and create a basic view that displays "Hello, World!" in the browser.
+
+## Lesson 2: Models and Databases
+
+* Introduction to models and databases in Django
+* Creating a database table using a model
+* Defining fields in a model
+* Basic queries using Django's ORM
+* Hands-on exercise: Create a new model for a "Product" that has a name, description, and price, and use Django's ORM to add new products to the database and retrieve them.
+
+## Lesson 3: Views and Templates
+
+* Introduction to views and templates in Django
+* Creating a URL pattern and connecting it to a view
+* Using templates to render HTML
+* Passing data from a view to a template
+* Hands-on exercise: Create a new view that displays a list of products from the database using a template.
+
+## Lesson 4: Forms and User Input
+
+* Introduction to forms in Django
+* Creating a new form class
+* Validating form data
+* Handling form submissions
+* Hands-on exercise: Create a new form that allows users to submit a new product to the database.
+
+## Lesson 5: APIs and REST Framework
+
+* Introduction to APIs and REST architecture
+* Installing Django REST framework using pip
+* Creating a new API view
+* Serializing data to JSON
+* Using Django REST framework's built-in views and serializers
+* Hands-on exercise: Create a new API endpoint that allows users to retrieve a list of products in JSON format.
+
+## Lesson 6: Authentication and Permissions
+
+* Introduction to authentication and permissions in Django REST framework
+* Creating a new user and logging in
+* Using authentication classes in views
+* Defining custom permissions
+* Hands-on exercise: Add authentication and permissions to the API endpoint created in the previous lesson.
+
+## Lesson 7: Testing and Deployment
+
+* Introduction to testing and deployment in Django
+* Writing and running tests in Django
+* Preparing a Django project for deployment
+* Deploying a Django project to a production environment
+* Hands-on exercise: Write tests for the models, views, and API endpoints created in previous lessons, and deploy the Django project to a hosting service such as Heroku.
