@@ -87,9 +87,9 @@ primes = prime_numbers(121)
 # 2*2 = 4 step 2 : 4, 6, 8, 10, 12, 14... == not primes
 # 3 was not marked as not prime so start at 3
 # 3*3 = 9 step 3 : 9, 12, 15, 18, 21, 24, 27... == not primes
-# 4 was marked as prime in the 2 iteration so move to 5
+# 4 was marked as not prime in the 2 iteration so move to 5
 # 5*5 = 25 step 5 : 25, 30, 35, 40, 45... == not primes
-# 6 was marked as prime in the 2 iteration so move to 7
+# 6 was marked as not prime in the 2 iteration so move to 7
 # 7*7 = 49 step 7 : 49, 56, 63, 70... == not primes
 # 8 is not prime, move to 9, 9 is not prime from the 3 iteration move to 10, 10 is not prime, move to 11
 # 11 * 11 = 121 step 11 : 121, 132, 143, 154... and so on until the final number is met
