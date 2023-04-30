@@ -41,8 +41,8 @@ Creating a new file and writing to it using "x"
 Note: if you try to open a file in "x" mode and the file already exists, a FileExistsError will be raised.
 """
 
-new_file = open('gpt/course/5_i-o/new_file.txt', 'x')
-new_file.write('This is a newly created file.')
+new_file = open("gpt/course/5_i-o/new_file.txt", "x")
+new_file.write("This is a newly created file.")
 new_file.close()
 
 new_file = open("gpt/course/5_i-o/new_file.txt", "r")
